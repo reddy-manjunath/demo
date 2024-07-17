@@ -1,4 +1,4 @@
 # demo
 This is a demo repository.
 <br>
-Author - Reddy Manjunath
+Author - Reddy Manjunath (pdtr)
